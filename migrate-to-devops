@@ -1,0 +1,11 @@
+1. Which of the following choices isn't an Azure DevOps service/feature? 
+
+Correct. Azure DevOps includes a range of services covering the complete development life cycle like Azure Boards, Azure Pipelines, Azure Repos, Azure Artifacts, Azure Test Plans. Azure Monitor is an Azure feature.
+
+2. Which of the following is a correct statement about Azure DevOps? 
+
+Correct. Azure DevOps provides both on-premises and cloud options, named Azure DevOps Server (on-premises) and Azure DevOps Services (SaaS). Also, the same applies to GitHub with GitHub (SaaS) and GitHub Enterprise (On-premises and Cloud).
+
+3. Which of the following choices does Azure DevOps Services enterprise-grade authentication support? 
+
+Correct. To protect and secure your data, Azure DevOps support: Microsoft Account, GitHub Account and Microsoft Entra ID.
